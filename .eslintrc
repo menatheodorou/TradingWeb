@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "standard",
+    "react-app"
+  ],
+  "rules": {
+    "eqeqeq": 0
+  }
+}
